@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>app.ico</file>
+        <file>img_bg_level_1.jpg</file>
+        <file>img-plane_5.png</file>
+        <file>hero2.png</file>
+        <file>bullet_11.png</file>
+    </qresource>
+</RCC>
